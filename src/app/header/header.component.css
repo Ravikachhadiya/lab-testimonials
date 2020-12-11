@@ -1,0 +1,18 @@
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 3em;
+  box-shadow: 0px 8px 8px -6px rgba(0, 0, 0, .5);
+}
+
+.image_1 {
+  height: 30px;
+  padding-left: 13em;
+  padding-top: 0.5em;
+}
+
+.image_2 {
+  padding-right: 13em;
+  padding-top: 0.5em;
+}
